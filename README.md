@@ -1,7 +1,5 @@
 # MWE-CWI Dataset [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-Repository for the MWE-CWI dataset
-
 Publications using this dataset must include a reference to the following publication:
 
 Ekaterina Kochmar, Sian Gooding, Matthew Shardlow (2020). *Detecting Multiword Expression Type Helps Lexical Complexity Assessment*. In Proceedings of LREC 2020.
