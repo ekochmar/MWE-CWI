@@ -6,7 +6,7 @@ Ekaterina Kochmar, Sian Gooding, Matthew Shardlow (2020). [*Detecting Multiword 
 
 ## Dataset
 
-The full annotated dataset consisting of 4732 phrases extracted from the Complex word identification Shared Task 2018 dataset(https://sites.google.com/view/cwisharedtask2018/datasets) is stored in the tab-separated file `final_MWE_dataset.tsv` with the following fields:
+The full annotated dataset consisting of 4732 phrases extracted from the [Complex word identification Shared Task 2018 dataset](https://sites.google.com/view/cwisharedtask2018/datasets) is stored in the tab-separated file [`final_MWE_dataset.tsv`](https://github.com/ekochmar/MWE-CWI/blob/master/final_MWE_dataset.tsv) with the following fields:
 
 - Unique identifier of the expression in this dataset (`Index`): from *0* to *4731*
 - Annotator's id (`Annotator`): *0* for the cases that were annotated by all three annotators, and *1-3* for individual annotations from each of the annotators 
@@ -25,7 +25,7 @@ The full annotated dataset consisting of 4732 phrases extracted from the Complex
 
 ## Annotation Guidelines
 
-
+Annotation guidelines used in this project are available [here](https://github.com/ekochmar/MWE-CWI/blob/master/Annotation%20Guidelines.pdf).
 
 This work is licensed under a [Creative Commons Attribution-NonCommerial-ShareAlike 4.0
 International License][cc-by-nc-sa].
