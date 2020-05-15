@@ -2,7 +2,7 @@
 
 Publications using this dataset must include a reference to the following publication:
 
-Ekaterina Kochmar, Sian Gooding, Matthew Shardlow (2020). [*Detecting Multiword Expression Type Helps Lexical Complexity Assessment*](https://arxiv.org/pdf/2005.05692.pdf). In Proceedings of LREC 2020.
+Ekaterina Kochmar, Sian Gooding, Matthew Shardlow (2020). [*Detecting Multiword Expression Type Helps Lexical Complexity Assessment*](https://arxiv.org/pdf/2005.05692.pdf). In Proceedings of the 12th Conference on Language Resources and Evaluation (LREC 2020), pages 4428–4437.
 
 ## Dataset
 
